@@ -1,0 +1,66 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="match_parent" android:background="#0099cc"
+    tools:context=".Crossword"
+    >
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+
+    <!-- android:id="@+id/ This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:weightSum="1"
+        android:id="@+id/c_l"
+        android:baselineAligned="false"
+        android:clickable="false">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/load_new_cros"
+            android:id="@+id/b_load_new_cros"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.10" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/load_old_cros"
+            android:id="@+id/b_load_old_cros"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.10" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/training"
+            android:id="@+id/b_training"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.10" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pay"
+            android:id="@+id/b_pay"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.10" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/exit"
+            android:id="@+id/b_exit"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.10" />
+
+    </LinearLayout>
+</FrameLayout>
+<!-- From: file:/home/bugayov/AndroidStudioProjects/Crossword/app/src/main/res/layout/activity_fullscreen.xml -->

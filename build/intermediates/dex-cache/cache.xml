@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bugayov/AndroidStudioProjects/Crossword/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/bugayov/AndroidStudioProjects/Crossword/app/build/intermediates/pre-dexed/debug/classes-bd90e676bead0877b7ded39a2bd8686e5fcdaba3.jar" />
+    </item>
+    <item
+        jar="/home/bugayov/AndroidStudioProjects/Crossword/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/bugayov/AndroidStudioProjects/Crossword/app/build/intermediates/pre-dexed/debug/classes-b3c32b421e622c5a2cc6b322c50ff20087a89fa0.jar" />
+    </item>
+    <item
+        jar="/home/bugayov/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/bugayov/AndroidStudioProjects/Crossword/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8548e2243ab0b5c2c3a2592015d6bdb1df2bbb61.jar" />
+    </item>
+    <item
+        jar="/home/bugayov/AndroidStudioProjects/Crossword/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/bugayov/AndroidStudioProjects/Crossword/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f5f29a8a0c418431cf6988fcbe0fd613feb7daff.jar" />
+    </item>
+
+</items>
